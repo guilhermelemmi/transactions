@@ -1,0 +1,20 @@
+[
+  {
+    "id": "123",
+    "date": "2024-01-01",
+    "description": "bill 1",
+    "amount": 32.45
+  },
+  {
+    "id": "123",
+    "date": "2024-06-01",
+    "description": "bill 2",
+    "amount": 50
+  },
+  {
+    "id": "123",
+    "date": "2024-10-01",
+    "description": "bill 3",
+    "amount": 75
+  }
+]
